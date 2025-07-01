@@ -12,7 +12,7 @@ export default function Header() {
       <header className={styles.header}>
         <Link className={styles.logo} href="/">
           <Image src={logoImage} alt="A plate with food on it!" priority />
-          NextLevel logo
+          NextFood
         </Link>
 
         <nav className={styles.nav}>
